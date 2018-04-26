@@ -10,6 +10,10 @@ A WordPress user does not need to learn PHP in order to use, run, or manage a Wo
 
 Most users can use WordPress without ever learning to program or code in PHP. However, if a user wants to develop WordPress themes, plugins, or modify default behavior of WordPress by using actions and filters, then they would need to learn the basic syntax of PHP along with HTML and CSS.
 
+For interested people who like to join for free on the PHP Fundementals for wordpress developers, please don't hesitate to send an email to fnzahhar@gmail.com so I can add you to our open source community (Wordpress Beirut Community).
+
+Please send me an email with desired repository or All, just let me know your interest so I can add you to specific repositories, or on the Parent contribute for the github wpbeirut.
+
 # Project1 - Template Creation
 you can find the folder template-demo,
 the objective is to know how to create a page template in wordpress so you can use it as a page template.
