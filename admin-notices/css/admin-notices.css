@@ -1,0 +1,48 @@
+.notice-big-error {
+	border: 3px solid red;
+	-webkit-transform: rotateZ(-1deg);
+	-ms-transform: rotateZ(-1deg);
+	transform: rotateZ(-1deg);
+}
+
+.notice-admin-user-award {
+	border-left: 5px solid purple;
+}
+.notice-admin-user-award p:before {
+	font: normal 24px/1 'dashicons';
+	content: "\f313";
+	color: purple;
+}
+
+.notice-light-bulb {
+	border-right: 5px solid #e2e224;
+}
+.notice-light-bulb p:before {
+	font: normal 22px/1 'dashicons';
+	content: "\f339";
+	color: #e6e610;
+}
+
+.notice-social-media {
+	border-left: 5px solid #1da25f;
+	padding-bottom: 5px;
+}
+.notice-social-media p {
+	padding-bottom: 0;
+    margin-bottom: 4px;
+}
+.notice-social-media:after {
+	font: normal 22px/1 'dashicons';
+	content: "\f301 \f304 \f462";
+	color: #888;
+}
+
+.notice-neo {
+	border-right: 10px solid orangered;
+	border-left: 10px solid orangered;
+}
+.notice-neo p:before {
+	font: normal 22px/1 'dashicons';
+	content: "\f511";
+	color: orangered;
+}
